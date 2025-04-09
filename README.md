@@ -19,4 +19,4 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, criando projetos práti
 📧 **E-mail:** catia_maine@hotmail.com
 
 Projeto criado para fins de aprendizado e prática de desenvolvimento front-end.
-Criado por [Catia Maina](https://github.com/catiamaine)
+Criado por [Catia Maine](https://github.com/catiamaine)
